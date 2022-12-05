@@ -1,4 +1,4 @@
-# Easy MERN Stack <!-- omit in toc -->
+# Easy MERN Stack <!-- omit in toooc -->
 
 ![MERN](media/mern.png "MERN")
 
